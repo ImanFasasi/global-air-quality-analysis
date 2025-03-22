@@ -1,0 +1,12 @@
+
+---
+
+## Conclusion
+This project demonstrates how data science can be applied to environmental challenges. Through analysis and modeling, we identified critical pollution sources and built accurate AQI predictors. These insights can inform public policy and drive efforts toward a healthier planet.
+
+---
+
+## Author
+**Iman Fasasi** - Data Analyst & Environmental Data Enthusiast  
+📫 imanbusayo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/iman-fasasi-716614232/) | [Portfolio](https://yourwebsite.com)
